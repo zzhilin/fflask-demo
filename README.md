@@ -7,10 +7,10 @@
 
 ### Create virtual environment (below are based on mac)
 
-if you want to use virtualenv:
-`python3 -m venv venv`
-activate env
-`source venv/bin/activate`
+- if you want to use virtualenv:
+  `python3 -m venv venv`
+- activate env
+  `source venv/bin/activate`
 
 ### Install Dependencies
 
@@ -18,10 +18,11 @@ activate env
 
 ### Create database
 
-- run a python interactive shell
-  `from app import db`
-  `db.create_all()`
-  `exit()`
+run a python interactive shell
+
+- `from app import db`
+- `db.create_all()`
+- `exit()`
 
 ### Start Server
 
