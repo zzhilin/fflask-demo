@@ -1,7 +1,7 @@
 ## Description
 
 - This is a backend server for the ArXiv bug report function
-- Run with the frontend
+- Run with the [frontend](https://github.com/zzhilin/Ar5iv-ReportFunction)
 
 ## Steps
 
